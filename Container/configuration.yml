@@ -1,0 +1,8 @@
+specifications:
+  - name: Container
+    g_folder: Container
+    g_mapping_file: Container Mapping
+    status: revision
+    spec_type: Profile
+    use_cases_url:
+    version: 0.0.1
